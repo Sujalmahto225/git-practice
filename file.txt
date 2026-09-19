@@ -1,2 +1,4 @@
 This is my first Git repository.
 Learning Git commands in linux.
+Git is easy to learn with practice.
+
